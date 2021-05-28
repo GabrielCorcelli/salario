@@ -17,4 +17,3 @@ if n2>n1 and n2>n3:
 if n3>n1 and n3>n2:
     maior=n3
     print('o maior numero é {}'.format(maior))
-
